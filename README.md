@@ -7,7 +7,7 @@ Openliberty.io is a portable, mobile enabled web application hosted on [IBM Clou
 The graphical user interface is built to work consistently across all major web browsers, including Chrome, Edge, Internet Explorer, Firefox and Safari.
 
 ## Responsive design
-The [jQuery](https://jquery.com/) and [Bootstrap](http://getbootstrap.com/) frameworks are leveraged to provide a seamless experience in desktops, laptops, tablets, and smart phones.
+The [jQuery](https://jquery.com/) and [Bootstrap](http://getbootstrap.com/) frameworks are leveraged to provide a seamless experience in desktops, laptops, ta blets, and smart phones.
 
 ## Contributing to the blog
 Create a pull request with the content of the blog post placed in the `src/main/content/_posts/` folder using the following file naming scheme: `YYYY-MM-DD-post-title.extension`. HTML, markdown, and AsciiDoc formats can be used. The file extension would be .html, .md, or .adoc respectively. In the blog post file the following front matter variables must be set:
