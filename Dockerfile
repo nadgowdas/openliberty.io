@@ -11,6 +11,7 @@
 # When you save a changed file, the changes are automatically rebuilt by Jekyll in the container and you can almost immediately
 # see the changes when you refresh your browser.
 
+# Demo ICPA
 # To build this image, from the directory that contains this Dockerfile:
 # docker build --tag lauracowen/jekyll .
 #
