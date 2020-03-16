@@ -13,7 +13,7 @@
 
 # To build this image, from the directory that contains this Dockerfile:
 # docker build --tag lauracowen/jekyll .
-#
+# Demo 1
 # To run a container:
 # docker run --name jekyll -it -d -p 4000:4000 -v <root directory of Jekyll site on host machine>:/home/jekyll lauracowen/jekyll
 
